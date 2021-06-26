@@ -10,4 +10,11 @@ https://gxlxe7ie4g.execute-api.us-west-1.amazonaws.com/dev
 Dynamo DB ARN:
 arn:aws:dynamodb:us-west-1:145870414727:table/HelloWorldDatabase
 
+Manually uploaded URL:
+https://dev2134.d3rxzgztyech7a.amplifyapp.com
+
+
+GitHub Hosted URL:
+https://main.d3mbghwdjybtb3.amplifyapp.com
+
 
