@@ -1,0 +1,13 @@
+Amplify Lambda AWS Training from Amazon
+https://aws.amazon.com/getting-started/hands-on/build-web-app-s3-lambda-api-gateway-dynamodb/module-three/?e=gs2020&p=build-a-web-app-two
+
+
+API URL:
+
+https://gxlxe7ie4g.execute-api.us-west-1.amazonaws.com/dev
+
+
+Dynamo DB ARN:
+arn:aws:dynamodb:us-west-1:145870414727:table/HelloWorldDatabase
+
+
